@@ -1,0 +1,6 @@
+
+
+Bookmarklet:
+
+
+javascript:(function(){var%20t=document.createElement("script");t.charset="UTF-8";t.src="http://yui.yahooapis.com/3.0.0/build/yui/yui-min.js";document.body.appendChild(t);var%20s=document.createElement("script");s.charset="UTF-8";s.src="http://www.example.com/encryptarea.js";document.body.appendChild(s)})();
